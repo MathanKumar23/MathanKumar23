@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/linux.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/shell.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/shell.jpg" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/git.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/github.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/maven.jpg" />]
