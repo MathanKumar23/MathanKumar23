@@ -18,9 +18,7 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jenkins.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/teraform.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/Ansible.png" />]
-
-<!-- [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/azure.png" />] -->
-
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/azure.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/aws.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jfrog.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/docker.png" />]
