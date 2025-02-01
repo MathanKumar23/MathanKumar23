@@ -9,25 +9,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/linux.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/shell.jpg" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/git.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/github.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/maven.jpg" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/sonarqube.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jenkins.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/teraform.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/Ansible.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/azure.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/aws.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jfrog.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/docker.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/helm.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/kubernetes.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/prometheus.png" />]
-[<img align="left" alt="Unix" width="30px" style="display: inline-block;" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/grafana.png" />]
-
-<!--
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/linux.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/shell.jpg" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/git.png" />]
@@ -37,14 +18,16 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jenkins.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/teraform.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/Ansible.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/azure.png" />]
+
+<!-- [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/azure.png" />] -->
+
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/aws.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/jfrog.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/docker.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/helm.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/kubernetes.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/prometheus.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/grafana.png" />] -->
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/MathanKumar23/MathanKumar23/main/Tools_icons/grafana.png" />]
 
 <br />
 <br />
